@@ -3231,7 +3231,7 @@ async function experimentInit() {
     ori : 0.0, 
     pos : [0, 0], 
     draggable: false,
-    size : [500, 500],
+    size : [400, 400],
     color : new util.Color([1,1,1]), opacity : undefined,
     flipHoriz : false, flipVert : false,
     texRes : 128.0, interpolate : true, depth : 0.0 
@@ -3244,7 +3244,7 @@ async function experimentInit() {
     ori : 0.0, 
     pos : [0, 0], 
     draggable: false,
-    size : [500, 500],
+    size : [400, 400],
     color : new util.Color([1,1,1]), opacity : undefined,
     flipHoriz : false, flipVert : false,
     texRes : 128.0, interpolate : true, depth : -1.0 
@@ -3255,7 +3255,7 @@ async function experimentInit() {
     text: '',
     font: 'Avenir Next',
     units: undefined, 
-    pos: [0, 360], draggable: false, height: 20.0,  wrapWidth: undefined, ori: 0.0,
+    pos: [0, 250], draggable: false, height: 20.0,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: -2.0 
